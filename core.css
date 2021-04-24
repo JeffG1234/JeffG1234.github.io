@@ -1,9 +1,9 @@
 :root {
-  --backgroundDark: rgb(24, 28, 37);
-  --backgroundDarker: rgb(20, 23, 31);
-  --primary: #008ae6;
+  --backgroundDark: #232428;
+  --backgroundDarker: #1d1c1d;
+  --primary: #7c7c80;
   --primaryGradient1: var(--primary);
-  --primaryGradient2: #00e68a;
+  --primaryGradient2: #e3e4e7;
   --DangerColor: #dc3545;
   --WarningColor: #ffc107;
   --SuccesColor: #28a745;
@@ -13,13 +13,13 @@
   /* Radial Status */
   --rs-small-spacing: 2px;
   --rs-large-spacing: 3px;
-  --rs-width: 2px;
+  --rs-width: 1px;
   --rs-avatar-shape: 50%;
   --rs-online-color: #43b581;
-  --rs-idle-color: #faa61a;
-  --rs-dnd-color: #f04747;
+  --rs-idle-color: #f1bc61;
+  --rs-dnd-color: #df4756;
   --rs-offline-color: #636b75;
-  --rs-streaming-color: #643da7;
+  --rs-streaming-color: #5a3697;
   --rs-invisible-color: #747f8d;
 }
 
