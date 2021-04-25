@@ -25,11 +25,11 @@
 
 .circleIconButton-1QV--U {
   border-radius: 50%;
-  background-color: var(--accent-color);
-  color: var(--accent-text-color); }
+  background-color: var(--primary);
+  color: var(--primaryGradient2); }
   .circleIconButton-1QV--U.selected-1JjBPm {
-    background-color: var(--accent-color);
-    color: var(--accent-text-color); }
+    background-color: var(--primary);
+    color: var(--primaryGradient2); }
 
 .wrapper-3vR61M, .wrapper-1F5TKx {
 	background-color: transparent;
