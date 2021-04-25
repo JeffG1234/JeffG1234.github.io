@@ -9,9 +9,6 @@
   --SuccesColor: #28a745;
   --backgroundCode: rgba(0,0,0,.35);
   --backgroundName: rgba(0,0,0,.2);
-  --window-button-min: #ffbd44;
-  --window-button-max: #00ca4e;
-  --window-button-close: #ff605c;
   
   /* Radial Status */
   --rs-small-spacing: 2px;
@@ -26,6 +23,13 @@
   --rs-invisible-color: #747f8d;
 }
 
+.circleIconButton-1QV--U {
+  border-radius: 50%;
+  background-color: var(--accent-color);
+  color: var(--accent-text-color); }
+  .circleIconButton-1QV--U.selected-1JjBPm {
+    background-color: var(--accent-color);
+    color: var(--accent-text-color); }
 
 .wrapper-3vR61M, .wrapper-1F5TKx {
 	background-color: transparent;
